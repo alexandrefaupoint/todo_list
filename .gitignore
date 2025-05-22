@@ -1,0 +1,17 @@
+# compiled files
+todo_list
+*.o
+
+# Saved files
+tasks.txt
+
+# Editors
+*~
+*.swp
+*.bak
+.DS_Store
+
+# Hidden files
+.vscode/
+.idea/
+build/
